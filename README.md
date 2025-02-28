@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Samuel Lucas Rodrigues Vieira
+Matricula: 877603
 
 ## Tela de inspeção com navegador
-
+ ![Print da inspeção de rede](images/networkPrint.png)
 
 ## Tela de projeto no Replit
-
+ ![Print da tela do Replit](images/ReplitPrint.png)
